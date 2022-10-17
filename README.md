@@ -1,7 +1,10 @@
-# Blue boy 2D Game
-###### Developer: Patrik Fallqvist Magnusson
+//======================OOP Final Project 17/10/22============================================//
 
-Simple 2D swing game demo project following the [fenomenal tutorial series](https://youtube.com/playlist?list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq)
- made by [RyiSnow](https://www.youtube.com/c/RyiSnow). Go subscribe to him, you won't regret it!
+A java simple 2D game called "TwoPiece" where player will have a chance to adventure through the map and have fun! This project is resource-based from
+ [RyiSnow](https://www.youtube.com/c/RyiSnow).
  
- This has been my, still ongoing, summer project and I'm hoping to continue expand the engine and make it into a proper RPG Zelda/Pokemon style 2D game in the future.
+Stay tuned for our future updates! :)
+
+Neeranuch Seethikham 640615015 [Assets developer]
+Tanutcha Rinkaew 640615016 [Sound &  resource developer]
+Sittipat Palawooth 640615025 [Character & animation developer]
